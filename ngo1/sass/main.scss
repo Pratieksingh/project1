@@ -1,0 +1,6 @@
+@use 'abstracts/mixin';
+
+h1{
+     color: mixin.$col;
+}
+ 
